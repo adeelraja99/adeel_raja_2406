@@ -1,0 +1,25 @@
+1. What's the company's name?
+Best American Inc.
+2. How many locations do they have?
+10
+3. How many employees comprise the entire organization?
+80
+4. Provide the logic you used to estimate the total number of employees.
+1 Managers for each store, 1 Floor Managers, 2 Cashiers at each store, 3 Filling personnel, and a Security guard
+total 8 at each store, 8 * 10 = 80
+5. What do they sell or how do they generate revenue?
+6. Give an estimate of their gross annual revenue.
+7. Every company has some notion of a transaction, i.e. some set of operations that constitute the
+accomplishment of an objective or task in a software system. Examples of such transactions that drive a
+company's business operations are the sale of a retail item, an event ticket sale, a trouble ticket for technical
+support, a service of some kind like a trip by taxi or a lesson, a book loan, etc. This notion of transaction will
+permeate your design project, so clarify how it applies to your company. What are the information system
+transactions that drive your company's operations?
+8. How many of each type of transaction occurs per day?
+9. Provide the logic behind your estimate of the number of transactions.
+10. What is the throughput of your system in bytes per second?
+11. Provide the logic behind your estimate of throughput.
+12. A client is someone who seeks your company's services. You are in business to serve your clients. Identify
+who the clients are of your company's business?
+13. A supplier is a person or organization that your company relies on to do business. Who are your company's
+suppliers? 
