@@ -27,7 +27,8 @@ company's business operations are the sale of a retail item, an event ticket sal
 support, a service of some kind like a trip by taxi or a lesson, a book loan, etc. This notion of transaction will
 permeate your design project, so clarify how it applies to your company. What are the information system
 transactions that drive your company's operations?
-This store has Cash transaction option, Credit/Debit/Gift card Transaction option and also an EBT transaction option.
+The company will take an average amount of order online which is between 150 to 200, and will required a $2 fee for the online order, so that the products don't go in waste. By ordering online, the clients will get the pick up time for their order. with the online order feature, client can track their order progress. once the order is ready, client will recieve a message.online orders will have an option to pay it with credit or debit online or with cashor with EBT card in the store.
+
 
 8. How many of each type of transaction occurs per day?
 
