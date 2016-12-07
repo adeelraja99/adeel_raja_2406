@@ -1,5 +1,13 @@
 14. What information system is being proposed to be designed?
+to help in an inventory. 
+
 15. Describe why the company needs it and why the company would be better off after it is in place.
-16. Provide an estimate of how long it will take to design, implement, and install it.
+company needs this device because it will help small businesses to be always prepared, they will get to know when they are running low on stocks. it will help the business to grow and will always keep them posted with the amount of things the store has. it will also save time too.
+
+16. Provide an estimate of how long it will take to design, implement, and install it. 
+it will take about a 15 months to design, implement, and install.
+
 17. Provide an estimate of how much will the system design, implementation, and installation cost?
+
 18. Provide an estimate of how many people will be needed to carry out everything?
+beside 8 employers there will 2 more people needed for this system to carry out everything.an engineer who will be keeping an eye on the system, so it can work properly without any interuption and if problem occurs he can fix it. two people who will be monitoring the system on their computers for the businesses who are using this system.
