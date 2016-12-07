@@ -1,1 +1,5 @@
-
+14. What information system is being proposed to be designed?
+15. Describe why the company needs it and why the company would be better off after it is in place.
+16. Provide an estimate of how long it will take to design, implement, and install it.
+17. Provide an estimate of how much will the system design, implementation, and installation cost?
+18. Provide an estimate of how many people will be needed to carry out everything?
