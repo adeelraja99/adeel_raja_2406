@@ -1,0 +1,69 @@
+
+
+28. Estimate the technical feasibility of
+the proposed system.
+
+
+Since we are not proposing a very huge system, and it is only
+for one chain of departmental stores, we will hire a tech specialist who will
+always be there for the live support for any technical issues. Most of those
+problems would be able to resolved over the phone and he will be able to update
+and take the glitches out from his/her office.
+
+ 
+
+ 
+
+29. Estimate the operational feasibility of
+the proposed system.
+
+ 
+
+The workers of different store are going to get the training to
+operate this software easily, it would be a new thing so it will take time to
+get used to but with time they definitely will get used to it. The system is
+designed in a way that most of the data won’t need a lot of human interaction.
+An example of this would be the time user wants to set for the pickup and the
+amount of items we have in stock. Operations like these would be updated
+automatically so the employees will get to see what time someone is coming and the
+shortage of items in the store.
+
+ 
+
+
+
+30. Estimate the economic feasibility of
+the proposed system.
+
+
+The economic aspect of this would be pretty interesting, for a
+small chain, it might look a lot of investment but the fact is with
+advertisement and the customer satisfaction, the stores would be able to
+attract a lot of new customers who need pickups on the go. This will help this
+business making more profit and expand this to more and more locations.
+
+ 
+ 
+
+31. Estimate the schedule feasibility of
+the proposed system.
+
+
+We have decided that this project should get done in six months
+maximum. This is a very decent time to adapt changes meanwhile, plus to
+introduce and advertise it so we will be having people waiting for it already
+beforehand. And if the project finishes before time, it will be a surprise for
+our customers.
+
+ 
+
+ 
+
+32. Do these feasibility estimates describe a system which corresponds to that
+described in the scope definition?
+
+Yes! they
+do, we are going very strict on budgets and deadlines. So we will not be delayed
+and over the budget and quality of the service would be again the first
+priority.
+
