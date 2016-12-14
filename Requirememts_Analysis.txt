@@ -1,0 +1,31 @@
+21. Describe between two and four functional requirements that will fulfill the needs of clients.
+
+functional requirements which fulfill the client’s needs. 
+-	The client can order from his/her phone, and pick it up in store.
+-	The client would be able to track his order, how long is it going to take their order to get ready 
+-	The client can check in stock inventory, if the particular item they need is in stock or no.
+
+22. Describe between two and four functional requirements that will fulfill the needs of suppliers.
+
+functional requirements which fulfill the supplier’s needs.
+-	The supplier can track of the time the client’s order time and the time they said they’ll be coming to pick it up.
+-	The supplier can also keep track of the in store inventory by keeping track of what has been ordered and what is left in the stock.
+-	Another would be the supplier will get to order/purchase stuff beforehand so nothing will ever be out of stock.
+
+23. Describe between two and four functional requirements that will help someone administer the proposed 
+information system
+
+functional requirements which fulfill the administrator’s needs.
+-	The admin would be able to see how much data is being processed through the system.
+-	The admin would be able to update the system if there is something slowing down the system.
+-	In case of an emergency, the admin of the system would be able to offer live support.
+-	The admin would be able to figure out if the system is having some viruses/glitches and fix them.
+
+24. Describe between two and four functional requirements that will help analyze the quality of the company’s 
+operations and inform strategic decisions.
+
+functional requirements which will help company.
+-	The company would be able to provide the quality service to the customers by saving their time on waiting in the lines by offering them the in-store pickup.
+-	The company would be able to make a good reputation by keeping track of inventory and ordering before things go out of stock.
+-	The company would be able to keep track of the loyal customers, how many times they’ve ordered, by giving them some discounts so they can feel good about staying loyal.
+-	Last but not the least, the company would be able to keep a good track of order history, revenue and the employee history through this system, which would be very handy in tracking a lot of things e.g. filing for taxes, order issues etc.
