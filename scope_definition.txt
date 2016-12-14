@@ -1,13 +1,20 @@
 14. What information system is being proposed to be designed?
-to help in an inventory. 
+
+The information system that is being proposed to design is how the company will take order online, how the company will process the order, and along with the order process, we are building an inventory checker, which will notify the company about the supplies that will be low in stock automatically. By taking order online company will make more profit, it will give the best customer service, and also this way company will be prepared 24/7 365 days and will never have to face a problem due to low stock. 
+
 
 15. Describe why the company needs it and why the company would be better off after it is in place.
-company needs this device because it will help small businesses to be always prepared, they will get to know when they are running low on stocks. it will help the business to grow and will always keep them posted with the amount of things the store has. it will also save time too.
+
+Before company used to have a hard time filling in the stock when they were taking order online, company used to get to know they are running low on stock at the last moment now with inventory checker, they’ll be up ahead of game. Company can take many online orders in a day, because now they are offering pick up services. It will just increase the sales of the company and will help the business to grow and will always keep them posted with the amount of things the store has. it will also save time too.
+
 
 16. Provide an estimate of how long it will take to design, implement, and install it. 
-it will take about a 15 months to design, implement, and install.
+
+Estimated time to design the app an d the inventory checker it will take approximately 2 months, to implement both things it will take 3-4 months and to install, it will take about a month, because we will run the test to verify everything is working normal. 
 
 17. Provide an estimate of how much will the system design, implementation, and installation cost?
 
+The estimated cost of the system to design, implement and install will be around $30,000 to $35,000. To design the system, an estimated amount will be around $10 to $15 thousand, Due to the high volume of people waiting in store lines, we will have to advertise our online order and pickup in store which might take up to $2000 -$3000. Installation would be around $3000- $4000 for 5 stores which be around $10,000 to $15,000. Since the design will be new, company would need to train the employees that will cost around $1000- $1,500 for 5 stores which will be around $5000 to $8000. 
+
 18. Provide an estimate of how many people will be needed to carry out everything?
-beside 8 employers there will 2 more people needed for this system to carry out everything.an engineer who will be keeping an eye on the system, so it can work properly without any interuption and if problem occurs he can fix it. two people who will be monitoring the system on their computers for the businesses who are using this system.
+An estimate of people who will be needed to carry out everything will be 12. Company will need 2 designers, 5 installers and 5 trainers. Besides this, a perosn would be hired for tech support, who will be keeping an eye on the system, so it can work properly without any interuption and if problem occurs he can fix it. two people who will be monitoring the system on their computers for the businesses who are using this system.
