@@ -1,0 +1,50 @@
+
+
+According to the situation, I have decided to test the system by using most of the IF THEN ELSE statements by implementing them in to the features.
+
+
+CUSTOMER
+
+IF Customer ORDERS,
+THEN show him the inventory, 
+ELSE Go Back and repeat the TEST
+
+
+
+ORDER
+
+IF ORDER processes smoothl,
+y THEN go to the next step, 
+ELSE repeat the test
+
+
+
+TRANSACTION
+
+IF Transaction processes,
+THEN go to the next test, 
+ELSE repeat the test
+
+
+
+SUPPLIER
+
+IF supplier gets notified of stock,
+THEN go to the next step, 
+ELSE go back and repeat the test
+
+
+
+INVENTORY
+
+IF inventory gets updated,
+THEN go to the next step, 
+ELSE go back and repeat the test.
+
+
+
+EMPLOYEE
+
+IF Employee processes the order,
+THEN proceed, 
+ELSE go back and repeat the test.
