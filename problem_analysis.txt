@@ -1,5 +1,30 @@
 19. Envision the way the company does business now, i.e. before this system is in place. With respect to this
 preexisting situation, list at least five problems with the current state of affairs that would be solved or improved
 by the proposed system.
+
+1- Before an inventory checker, the company was getting a hard time to fill in the stocks, because company get to know this on the last moment.
+
+2- Due to high volume of online orders, the app used to freeze which used to cause lot of trouble.
+
+3- Before the company was taking limited orders, and was not providing same day pick up service.
+
+4- Before when a customer used to order online, customers couldn’t track their order.
+
+5- Before customers couldn’t see what they ordered last time. 
+
+
+
+
 20. For each problem, provide a system improvement objective that would be accomplished and that would be measurable in some objective way. Refer to our text for discussion of what good examples of
 system improvement objectives are.
+
+
+1- Now with the inventory checker, company will get to know about low stocks and can fill it in on time.
+
+2- Now with the new app design, the app will not freeze.
+
+3- Now the company is taking unlimited orders, and providing a same day pick up services.
+
+4- Now customers can track their order online.
+
+5- Now customers can see what they ordered last time in their purchase list, and it gives the customer the option to restock now, if they want the same products from their last purchase. 
